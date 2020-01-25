@@ -8,4 +8,7 @@ This business toward application is intented to help users to calculate taxi far
 Users can drop pin on map, choose locations/destinations or type in latitude&longitude from dropdown, to preview the route. Then user can choose pick-up time, vehicle type/size, payment method to view total bill. Depending on user's requirements, the application will pull available cabs from the database, and update the database according to user's reservation.
 
 ![screenshot](taxismart.png)
+
+Demo: https://docs.google.com/document/d/18nyFEM8G5xfn7iPvfF78MfbVaLi-aXqfJ3yB3duHG-A/edit?usp=sharing
+
 Project Brief: https://docs.google.com/presentation/d/1M1SpnuZ-Xj_YImgZYcuTopYGkpxR_3356AaRuU5mwsM/edit?usp=sharing
